@@ -1,4 +1,4 @@
-# ✨ ExoPlayerMediaDemo
+# ✨ ExoPlayerMediaDemo (Java)
 Easiest way to get started using AndroidX Media3 to playing live streaming URL.
 
 ## 🎯 Features
@@ -26,6 +26,15 @@ Easiest way to get started using AndroidX Media3 to playing live streaming URL.
 | ------------------------------------ |
 |![Custom Control Screen](./screenshots/3.png)|
 
+
+
+## 🅺 Kotlin Demo
+
+ - [ExoPlayerMediaKotlinDemo](https://github.com/mrprashant249/ExoPlayerMediaKotlinDemo)
+
+ - [ExoPlayerMediaJavaDemo](https://github.com/mrprashant249/ExoPlayerMediaDemo)
+
+   
 
 
 ## 💰 Donations
