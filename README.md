@@ -62,7 +62,7 @@ This project needs you! If you would like to support this project's further deve
 **BuyMeACoffee**
 
 <a href="https://www.buymeacoffee.com/bytesbee">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bytesbee&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> You can support me on BuyMeACoffee too!
+<img src="https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/08f1cf468ace518fc8cc9e352a2e613f.png" width="20%" /></a> You can support me on BuyMeACoffee too!
 
 Of course, you can also choose what you want to donate, all donations are awesome!
 
